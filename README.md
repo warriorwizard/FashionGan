@@ -1,6 +1,6 @@
 # FashionGan
 
-
+![](https://github.com/warriorwizard/FashionGan/blob/main/output.png)
 
 ## Requirements
 
